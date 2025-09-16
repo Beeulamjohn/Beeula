@@ -1,0 +1,42 @@
+.header{
+    display:flex;
+    width:100%;
+    margin-left:700px;
+    font-size:10px;
+   
+}
+.centered{
+  position: absolute;
+  top: 30%;
+  left: 65%;
+  transform: translate(-50%, -50%);
+  font-size:30px;
+  font-family:sans-serif typeface;
+
+}
+
+.button{
+    color:black;
+    border-radius: 12px;
+    background-color: blueviolet;
+}
+.container{
+    display: flex;
+}
+
+.logo4{
+    text-indent: 100px;
+    height: 10px;
+  
+
+}
+.logo3{
+    text-indent: 100px;
+    height:20px;
+   
+}
+.logo2{
+    text-indent:100px;
+    height:20px;
+
+}
