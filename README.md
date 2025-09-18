@@ -8,7 +8,7 @@ This project is beginner-friendly and demonstrates the use of **Flexbox, absolut
 
 ## 📸 Preview  
 
-
+plant website.png
 
 ---
 
