@@ -8,9 +8,7 @@ This project is beginner-friendly and demonstrates the use of **Flexbox, absolut
 
 ## 📸 Preview  
 
-> *(Replace this with an actual screenshot of your site)*  
 
-![Project Screenshot](screenshot.png)  
 
 ---
 
@@ -70,13 +68,6 @@ project-folder/
 
 ---
 
-## 📷 Demo GIF (Optional)  
-
-> *(You can create a short screen recording of the webpage and convert it to a GIF for GitHub)*  
-
-![Demo](demo.gif)  
-
----
 
 ## 🤝 Contributing  
 
